@@ -49,7 +49,7 @@ Import the sample data provided in the data.sql file.
 
 **Running Queries:
 **
- ([Use the SQL scripts provided]([(https://github.com/bobbydangeti/RDBMS-Microsoft-Azure-SQL-Analysis/blob/main/query_h1b_employer_analysis.sql)])) to execute analysis and obtain insights on visa acceptance rates by company and state.
+ [Using SQL Script](https://github.com/bobbydangeti/RDBMS-Microsoft-Azure-SQL-Analysis/blob/main/query_h1b_employer_analysis.sql)  to execute analysis and obtain insights on visa acceptance rates by company and state.
 
 **Data Replication:
 **If you wish to replicate the process, gather H1B visa data from publicly available sources or use the provided sample data.
